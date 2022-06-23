@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Reach out - [Victor Cappa](xrDev@victorcappa.com)
 
-Share the project - [Live Album](https://github.com/victorcappa/LiveAlbum)
+Share the project - [Musical Reclying](https://github.com/victorcappa/musical-reclying)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
