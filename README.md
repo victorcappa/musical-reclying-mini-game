@@ -24,44 +24,21 @@ Simple mini-game, made with Unity for a company on Sustentability Awareness Week
   </p>
  
  
- <a href="https://rb.gy/puka1z/" target="_blank">Demo video can be seem here<a/>
+ <a href="https://victorcappa.itch.io/mini-game-reciclagem" target="_blank">Demo can be played here<a/>
  
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+ 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/40408965/162596419-2291f563-9caa-4a7d-b271-d2e2728481fb.gif" alt="animated" />
+ 
+  <img src="https://user-images.githubusercontent.com/40408965/175422828-db4de5f6-9ba4-4154-808c-faf572fd809f.gif" alt="animated" />
+
+
 </p>
 
 
