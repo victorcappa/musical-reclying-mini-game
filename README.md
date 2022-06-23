@@ -1,4 +1,4 @@
-# musical-reclying
+# musical-recycling
 
 <div id="top"></div>
 
@@ -15,10 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Live Album</h3>
+<h3 align="center">Musical Recycling</h3>
 
   <p align="center">
-Simple mini-game, made with Unity for a company on Sustentability Awareness Week.
+Simple mini-game, made with Unity for a company on Sustainability Awareness Week.
     <br />
 
   </p>
@@ -57,9 +57,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Reach out - [Victor Cappa](xrDev@victorcappa.com)
+Reach out - [Victor Cappa](cappacurta@gmail.com)
 
-Share the project - [Musical Reclying](https://github.com/victorcappa/musical-reclying)
+Share the project - [Musical recycling](https://github.com/victorcappa/musical-recycling)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
