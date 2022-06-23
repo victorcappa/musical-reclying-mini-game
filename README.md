@@ -11,14 +11,14 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/victorcappa/musical-reclying">
+  <a href="https://github.com/victorcappa/musical-reclying-mini-game">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Musical Recycling</h3>
 
   <p align="center">
-Simple mini-game, made with Unity for a company on Sustainability Awareness Week.
+Simple mini-game, made with Unity for the Sustainability Awareness Week.
     <br />
 
   </p>
@@ -60,7 +60,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
 
-Share the project - [Musical recycling](https://github.com/victorcappa/musical-recycling)
+Share the project - [Musical recycling](https://github.com/victorcappa/musical-reclying-mini-game)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
