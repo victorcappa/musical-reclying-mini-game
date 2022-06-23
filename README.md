@@ -57,7 +57,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Reach out - [Victor Cappa](cappacurta@gmail.com)
+Reach out - [Victor Cappa](<a href = "mailto: cappacurta@gmail.com.com"></a>)
+
 
 Share the project - [Musical recycling](https://github.com/victorcappa/musical-recycling)
 
